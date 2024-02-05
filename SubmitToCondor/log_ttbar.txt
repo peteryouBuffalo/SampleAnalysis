@@ -1,0 +1,95 @@
+Submitting job(s)..............................................................................
+78 job(s) submitted to cluster 79065914.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).........................................
+41 job(s) submitted to cluster 79065915.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..................................................
+50 job(s) submitted to cluster 79065916.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).................................................................................................................
+113 job(s) submitted to cluster 79065917.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)....................................................................................................
+100 job(s) submitted to cluster 79065918.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)....................................................................................................................................................................................................
+196 job(s) submitted to cluster 79065919.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)................................................................................................................................
+128 job(s) submitted to cluster 79065920.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).....................................................................................................................................................
+149 job(s) submitted to cluster 79065921.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..........................................................................................................................................................................
+170 job(s) submitted to cluster 79065922.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+=============================
+Run mode:  0
+Submit:    True
+Debug:     False
+haddData:  True
+Systematic:                                                  NONE
+Sample list file (list of input samples):                   
+       /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//Dataset_lists/separated/datasets_ttbar_MC.txt
+Sample list folder (location of input file lists):           /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists/
+Number of file per jobs:                                     2
+Source dir:                                                  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis/
+Condor run dir:                                              /uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Aug2023_addedTtagSF/
+Output location eos:                                         /store/user/peteryou/Output_VH/Aug2023_addedTagSF
+Output location scratch:                                     /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis/condor_results/Aug2023_addedTagSF/NONE/
+=========================
+Processing sample:  TTTo2L2Nu_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTTo2L2Nu_MC_2018.txt
+=========================
+Processing sample:  TTTo2L2Nu_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTTo2L2Nu_MC_2016.txt
+=========================
+Processing sample:  TTTo2L2Nu_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTTo2L2Nu_MC_2017.txt
+=========================
+Processing sample:  TTToHadronic_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTToHadronic_MC_2016.txt
+=========================
+Processing sample:  TTToHadronic_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTToHadronic_MC_2017.txt
+=========================
+Processing sample:  TTToSemiLeptonic_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTToSemiLeptonic_MC_2018.txt
+=========================
+Processing sample:  TTToSemiLeptonic_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTToSemiLeptonic_MC_2016.txt
+=========================
+Processing sample:  TTToSemiLeptonic_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTToSemiLeptonic_MC_2017.txt
+=========================
+Processing sample:  TTToHadronic_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//TTToHadronic_MC_2018.txt

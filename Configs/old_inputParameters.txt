@@ -1,0 +1,12 @@
+jet_eta 2.4 float
+jet_pt  30  float
+jet_main_btagWP   deepCSVT string
+lep_eta 2.4 float
+lep_pt0 35 float
+lep_pt1 25 float
+//cuts for leptons used in overlap removal
+lep_jetOverlap_pt 25 float
+lep_jetOverlap_eta 2.5 float
+ZMassL 71 float
+ZMassH 111 float
+muon_iso 0.15 float

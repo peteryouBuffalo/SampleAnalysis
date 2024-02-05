@@ -1,0 +1,311 @@
+Submitting job(s)...................................................
+51 job(s) submitted to cluster 79065869.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)................
+16 job(s) submitted to cluster 79065870.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).............................................
+45 job(s) submitted to cluster 79065871.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)........................................
+40 job(s) submitted to cluster 79065872.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).......................
+23 job(s) submitted to cluster 79065873.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..................................
+34 job(s) submitted to cluster 79065874.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).................
+17 job(s) submitted to cluster 79065875.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)....................
+20 job(s) submitted to cluster 79065876.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).........................
+25 job(s) submitted to cluster 79065877.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)...........
+11 job(s) submitted to cluster 79065878.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).........
+9 job(s) submitted to cluster 79065879.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)....................................
+36 job(s) submitted to cluster 79065880.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)................................
+32 job(s) submitted to cluster 79065881.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)........................
+24 job(s) submitted to cluster 79065882.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..............
+14 job(s) submitted to cluster 79065883.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).............................
+29 job(s) submitted to cluster 79065884.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)......
+6 job(s) submitted to cluster 79065885.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).................
+17 job(s) submitted to cluster 79065886.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)....................
+20 job(s) submitted to cluster 79065887.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..................
+18 job(s) submitted to cluster 79065888.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)....
+4 job(s) submitted to cluster 79065889.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)................
+16 job(s) submitted to cluster 79065890.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).................................
+33 job(s) submitted to cluster 79065891.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).............................
+29 job(s) submitted to cluster 79065892.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)........................
+24 job(s) submitted to cluster 79065893.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..........................
+26 job(s) submitted to cluster 79065894.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).................
+17 job(s) submitted to cluster 79065895.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..............................................
+46 job(s) submitted to cluster 79065896.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).......................................
+39 job(s) submitted to cluster 79065897.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)........
+8 job(s) submitted to cluster 79065898.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..........................
+26 job(s) submitted to cluster 79065899.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)................
+16 job(s) submitted to cluster 79065900.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)......................
+22 job(s) submitted to cluster 79065901.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+=============================
+Run mode:  0
+Submit:    True
+Debug:     False
+haddData:  True
+Systematic:                                                  NONE
+Sample list file (list of input samples):                   
+       /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//Dataset_lists/separated/datasets_Wjets_MC.txt
+Sample list folder (location of input file lists):           /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists/
+Number of file per jobs:                                     2
+Source dir:                                                  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis/
+Condor run dir:                                              /uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Aug2023_addedTtagSF/
+Output location eos:                                         /store/user/peteryou/Output_VH/Aug2023_addedTagSF
+Output location scratch:                                     /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis/condor_results/Aug2023_addedTagSF/NONE/
+=========================
+Processing sample:  WJetsToLNu_HT-200to400_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-200to400_MC_2018.txt
+=========================
+Processing sample:  WJetsToLNu_HT-200to400_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-200to400_MC_2017.txt
+=========================
+Processing sample:  WJetsToLNu_HT-200to400_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-200to400_MC_2016.txt
+=========================
+Processing sample:  WJetsToQQ_HT-800toInf_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-800toInf_MC_2016.txt
+=========================
+Processing sample:  WJetsToQQ_HT-800toInf_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-800toInf_MC_2017.txt
+=========================
+Processing sample:  WJetsToQQ_HT-800toInf_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-800toInf_MC_2018.txt
+=========================
+Processing sample:  WJetsToLNu_HT-600to800_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-600to800_MC_2018.txt
+=========================
+Processing sample:  WJetsToQQ_HT-200to400_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-200to400_MC_2017.txt
+=========================
+Processing sample:  WJetsToQQ_HT-200to400_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-200to400_MC_2016.txt
+=========================
+Processing sample:  WJetsToQQ_HT-200to400_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-200to400_MC_2018.txt
+=========================
+Processing sample:  WJetsToLNu_HT-600to800_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-600to800_MC_2017.txt
+=========================
+Processing sample:  WJetsToQQ_HT-400to600_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-400to600_MC_2017.txt
+=========================
+Processing sample:  WJetsToQQ_HT-400to600_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-400to600_MC_2016.txt
+=========================
+Processing sample:  WJetsToLNu_HT-600to800_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-600to800_MC_2016.txt
+=========================
+Processing sample:  WJetsToLNu_HT-800to1200_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-800to1200_MC_2017.txt
+=========================
+Processing sample:  WJetsToLNu_HT-800to1200_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-800to1200_MC_2016.txt
+=========================
+Processing sample:  WJetsToLNu_HT-800to1200_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-800to1200_MC_2018.txt
+=========================
+Processing sample:  WJetsToQQ_HT-400to600_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-400to600_MC_2018.txt
+=========================
+Processing sample:  WJetsToLNu_HT-100to200_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-100to200_MC_2016.txt
+=========================
+Processing sample:  WJetsToLNu_HT-100to200_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-100to200_MC_2017.txt
+=========================
+Processing sample:  WJetsToLNu_HT-1200to2500_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-1200to2500_MC_2018.txt
+=========================
+Processing sample:  WJetsToLNu_HT-1200to2500_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-1200to2500_MC_2017.txt
+=========================
+Processing sample:  WJetsToLNu_HT-1200to2500_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-1200to2500_MC_2016.txt
+=========================
+Processing sample:  WJetsToLNu_HT-100to200_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-100to200_MC_2018.txt
+=========================
+Processing sample:  WJetsToLNu_HT-400to600_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-400to600_MC_2017.txt
+=========================
+Processing sample:  WJetsToLNu_HT-400to600_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-400to600_MC_2016.txt
+=========================
+Processing sample:  WJetsToQQ_HT-600to800_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-600to800_MC_2017.txt
+=========================
+Processing sample:  WJetsToQQ_HT-600to800_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-600to800_MC_2016.txt
+=========================
+Processing sample:  WJetsToLNu_HT-2500toInf_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-2500toInf_MC_2016.txt
+=========================
+Processing sample:  WJetsToLNu_HT-2500toInf_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-2500toInf_MC_2017.txt
+=========================
+Processing sample:  WJetsToLNu_HT-2500toInf_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-2500toInf_MC_2018.txt
+=========================
+Processing sample:  WJetsToQQ_HT-600to800_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToQQ_HT-600to800_MC_2018.txt
+=========================
+Processing sample:  WJetsToLNu_HT-400to600_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WJetsToLNu_HT-400to600_MC_2018.txt

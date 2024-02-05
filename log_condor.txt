@@ -1,0 +1,30 @@
+
+
+-- Schedd: lpcschedd3.fnal.gov : <131.225.188.235:9618?... @ 10/23/23 11:02:21
+ ID          OWNER            SUBMITTED     RUN_TIME ST PRI SIZE   CMD
+79398888.2   peteryou       10/23 10:19   0+00:42:51 R  0   1539.0 exe_NONE_BTagCSV_DATA_2017D.sh 2
+79398889.3   peteryou       10/23 10:19   0+00:42:01 R  0   1545.0 exe_NONE_BTagCSV_DATA_2017E.sh 3
+79398896.4   peteryou       10/23 10:19   0+00:37:24 R  0   1545.0 exe_NONE_BTagCSV_DATA_2017C.sh 4
+
+Total for query: 3 jobs; 0 completed, 0 removed, 0 idle, 3 running, 0 held, 0 suspended 
+Total for peteryou: 3 jobs; 0 completed, 0 removed, 0 idle, 3 running, 0 held, 0 suspended 
+Total for all users: 13988 jobs; 0 completed, 30 removed, 10581 idle, 1611 running, 1766 held, 0 suspended
+
+
+
+-- Schedd: lpcschedd4.fnal.gov : <131.225.189.251:9618?... @ 10/23/23 11:02:22
+ ID          OWNER            SUBMITTED     RUN_TIME ST PRI SIZE   CMD
+
+Total for query: 0 jobs; 0 completed, 0 removed, 0 idle, 0 running, 0 held, 0 suspended 
+Total for peteryou: 0 jobs; 0 completed, 0 removed, 0 idle, 0 running, 0 held, 0 suspended 
+Total for all users: 17315 jobs; 0 completed, 0 removed, 11422 idle, 154 running, 5739 held, 0 suspended
+
+
+
+-- Schedd: lpcschedd5.fnal.gov : <131.225.204.62:9618?... @ 10/23/23 11:02:22
+ ID          OWNER            SUBMITTED     RUN_TIME ST PRI SIZE   CMD
+
+Total for query: 0 jobs; 0 completed, 0 removed, 0 idle, 0 running, 0 held, 0 suspended 
+Total for peteryou: 0 jobs; 0 completed, 0 removed, 0 idle, 0 running, 0 held, 0 suspended 
+Total for all users: 14535 jobs; 0 completed, 0 removed, 11208 idle, 337 running, 2990 held, 0 suspended
+

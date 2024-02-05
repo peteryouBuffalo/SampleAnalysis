@@ -1,0 +1,95 @@
+Submitting job(s).
+1 job(s) submitted to cluster 79065960.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)...
+3 job(s) submitted to cluster 79065961.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)........
+8 job(s) submitted to cluster 79065962.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s).............
+13 job(s) submitted to cluster 79065963.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)................
+16 job(s) submitted to cluster 79065964.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)........
+8 job(s) submitted to cluster 79065965.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)................................
+32 job(s) submitted to cluster 79065966.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)...............
+15 job(s) submitted to cluster 79065967.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+Submitting job(s)..........
+10 job(s) submitted to cluster 79065968.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd3.fnal.gov
+
+=============================
+Run mode:  0
+Submit:    True
+Debug:     False
+haddData:  True
+Systematic:                                                  NONE
+Sample list file (list of input samples):                   
+       /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//Dataset_lists/separated/datasets_diboson_MC.txt
+Sample list folder (location of input file lists):           /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists/
+Number of file per jobs:                                     2
+Source dir:                                                  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis/
+Condor run dir:                                              /uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Aug2023_addedTtagSF/
+Output location eos:                                         /store/user/peteryou/Output_VH/Aug2023_addedTagSF
+Output location scratch:                                     /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis/condor_results/Aug2023_addedTagSF/NONE/
+=========================
+Processing sample:  ZZ_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//ZZ_MC_2017.txt
+=========================
+Processing sample:  ZZ_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//ZZ_MC_2018.txt
+=========================
+Processing sample:  WZ_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WZ_MC_2018.txt
+=========================
+Processing sample:  ZZ_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//ZZ_MC_2016.txt
+=========================
+Processing sample:  WW_MC_2018
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WW_MC_2018.txt
+=========================
+Processing sample:  WW_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WW_MC_2017.txt
+=========================
+Processing sample:  WW_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WW_MC_2016.txt
+=========================
+Processing sample:  WZ_MC_2016
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WZ_MC_2016.txt
+=========================
+Processing sample:  WZ_MC_2017
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//WZ_MC_2017.txt

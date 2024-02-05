@@ -1,0 +1,7 @@
+#!/bin/csh
+foreach syst ( PUU PUD L1PREFIRINGU L1PREFIRINGD BTAGU BTAGD ELEU ELED MUONU MUOND JESU JESD JERU JERD )
+#foreach syst ( PUU PUD ) 
+#foreach syst ( L1PREFIRINGU L1PREFIRINGD BTAGU BTAGD ELEU ELED MUONU MUOND JESU JESD JERU JERD )
+  echo $syst
+  python launch_v2.py $syst
+end

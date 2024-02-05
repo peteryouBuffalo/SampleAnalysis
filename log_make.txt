@@ -1,0 +1,36 @@
+rm -rf main *.o *.so *_dict.cxx
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -c src/Global.cxx -o Global.o
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -c src/Reader.cxx -o Reader.o
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -c src/Processor.cxx -o Processor.o
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -c src/BTagCalibrationStandalone.cpp -o BTagCalibrationStandalone.o
+#g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -I yaml-cpp/include -lyaml-cpp -c src/LumiMaskFilter.cc -o LumiMaskFilter.o
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -I yaml-cpp/include -c src/LumiMaskFilter.cc -o LumiMaskFilter.o
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -c Reader_dict.cxx -o Reader_dict.o
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -c Processor_dict.cxx -o Processor_dict.o
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -c src/Selector.cxx -o Selector.o
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -c src/VH_selection.cxx -o VH_selection.o
+In file included from src/VH_selection.h:30,
+                 from src/VH_selection.cxx:33:
+src/Plots.cxx: In member function 'std::vector<TH1*> WeightPlots::returnHisto()':
+src/Plots.cxx:110:5: warning: no return statement in function returning non-void [-Wreturn-type]
+     };
+     ^
+src/VH_selection.cxx: In member function 'virtual void VH_selection::Process(Reader*)':
+src/VH_selection.cxx:82:9: warning: unused variable 'l1_prefire_weight' [-Wunused-variable]
+   float l1_prefire_weight = 1.0;
+         ^~~~~~~~~~~~~~~~~
+#g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -L/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/lib -lGui -lCore -lImt -lRIO -lNet -lHist -lGraf -lGraf3d -lGpad -lROOTDataFrame -lROOTVecOps -lTree -lTreePlayer -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lThread -lMultiProc -pthread -lm -ldl -rdynamic Ana.cxx Global.o Reader.o Processor.o BTagCalibrationStandalone.o LumiMaskFilter.o Reader_dict.o Processor_dict.o Selector.o VH_selection.o -o main
+g++ -O -Wall -fPIC -D MC_2018 -D MC_2018 -D NANOAODV9 -D TCHAIN -pthread -std=c++17 -m64 -I/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/include	 -L/cvmfs/cms.cern.ch/slc7_amd64_gcc820/cms/cmssw/CMSSW_10_6_4/external/slc7_amd64_gcc820/bin/../../../../../../../slc7_amd64_gcc820/lcg/root/6.14.09/lib -lGui -lCore -lImt -lRIO -lNet -lHist -lGraf -lGraf3d -lGpad -lROOTDataFrame -lROOTVecOps -lTree -lTreePlayer -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lThread -lMultiProc -pthread -lm -ldl -rdynamic Ana.cxx Global.o Reader.o Processor.o BTagCalibrationStandalone.o LumiMaskFilter.o Reader_dict.o Processor_dict.o Selector.o VH_selection.o -o main yaml-cpp/build/libyaml-cpp.a
+In file included from src/VH_selection.h:30,
+                 from Ana.cxx:9:
+src/Plots.cxx: In member function 'std::vector<TH1*> WeightPlots::returnHisto()':
+src/Plots.cxx:110:5: warning: no return statement in function returning non-void [-Wreturn-type]
+     };
+     ^
+In file included from src/Plots.cxx:37,
+                 from src/VH_selection.h:30,
+                 from Ana.cxx:9:
+src/Global.h: In member function 'std::__cxx11::string glob::Parameters::GetStr(const string&)':
+src/Global.h:157:7: warning: control reaches end of non-void function [-Wreturn-type]
+       };
+       ^

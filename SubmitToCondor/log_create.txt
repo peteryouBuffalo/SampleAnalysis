@@ -1,0 +1,22 @@
+mkdir: cannot create directory '../FileLists/': File exists
+rm: cannot remove '../FileLists//BTagCSV_DATA_2017D.txt': No such file or directory
+rm: cannot remove '../FileLists//BTagCSV_DATA_2017E.txt': No such file or directory
+rm: cannot remove '../FileLists//BTagCSV_DATA_2017F.txt': No such file or directory
+rm: cannot remove '../FileLists//BTagCSV_DATA_2017B.txt': No such file or directory
+rm: cannot remove '../FileLists//BTagCSV_DATA_2017C.txt': No such file or directory
+[]
+   /BTagCSV/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD
+dasgoclient --query="file dataset=/BTagCSV/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD" >| outTmp.txt
+>>>>NFILES:  /BTagCSV/Run2017D-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD  has  8  files
+   /BTagCSV/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD
+dasgoclient --query="file dataset=/BTagCSV/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD" >| outTmp.txt
+>>>>NFILES:  /BTagCSV/Run2017E-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD  has  12  files
+   /BTagCSV/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD
+dasgoclient --query="file dataset=/BTagCSV/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD" >| outTmp.txt
+>>>>NFILES:  /BTagCSV/Run2017F-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD  has  78  files
+   /BTagCSV/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD
+dasgoclient --query="file dataset=/BTagCSV/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD" >| outTmp.txt
+>>>>NFILES:  /BTagCSV/Run2017B-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD  has  3  files
+   /BTagCSV/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD
+dasgoclient --query="file dataset=/BTagCSV/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD" >| outTmp.txt
+>>>>NFILES:  /BTagCSV/Run2017C-UL2017_MiniAODv2_NanoAODv9-v1/NANOAOD  has  27  files

@@ -1,0 +1,79 @@
+\documentclass{beamer}
+\usepackage{subfigure}
+%Information to be included in the title page
+\title{VbbHcc Plots}
+\author{Peter Young}
+\institute{State University of New York at Buffalo}
+\date{16. February, 2023}
+
+\begin{document}
+\frame{\titlepage}
+
+%%===============================================================
+%% Introductory information
+%%===============================================================
+\begin{frame}
+\frametitle{Note: Format of Slides}
+This is a LaTeX document I have made to autofill slides from the plots I produce. They will roughly be formatted in the following manner of 4 slides in a row (for each variable):\\
+\begin{itemize}
+\item Signal distributions
+\item Background distributions
+\item ROC curve \& overlay plots
+\item MC Truth distributions
+\end{itemize}
+\end{frame}
+
+%%===============================================================
+%% CutFlows
+%%===============================================================
+
+%% Signal
+\begin{frame}{CutFlows - Signal}
+Signal Samples - ZHcc, ggZHcc
+  \begin{figure}[h]\centering
+    \subfigure[Tagging Only]{
+    \includegraphics[width=0.30\textwidth]{"../full_results/2018_QCDv9/cutflow/CutFlow_signal_tags_18_logY.png"}
+    }
+    \subfigure[Tagging Prioritized]{
+    \includegraphics[width=0.30\textwidth]{"../full_results/2018_QCDv9/cutflow/CutFlow_signal_both_18_logY.png"}
+    }
+    \subfigure[Matching Prioritized]{
+    \includegraphics[width=0.30\textwidth]{"../full_results/2018_QCDv9/cutflow/CutFlow_signal_algo_18_logY.png"}
+    }
+  \end{figure}
+\end{frame}
+
+%% Background
+\begin{frame}{CutFlows - Background}
+Background Samples - QCD (all bins), ttbar
+  \begin{figure}[h]\centering
+    \subfigure[Tagging Only]{
+    \includegraphics[width=0.30\textwidth]{"../full_results/2018_QCDv9/cutflow/CutFlow_bckg_tags_18_logY.png"}
+    }
+    \subfigure[Tagging Prioritized]{
+    \includegraphics[width=0.30\textwidth]{"../full_results/2018_QCDv9/cutflow/CutFlow_bckg_both_18_logY.png"}
+    }
+    \subfigure[Matching Prioritized]{
+    \includegraphics[width=0.30\textwidth]{"../full_results/2018_QCDv9/cutflow/CutFlow_bckg_algo_18_logY.png"}
+    }
+  \end{figure}
+\end{frame}
+
+%%===============================================================
+%% Invariant Mass
+%%===============================================================
+\begin{frame}{Invariant Mass - Signal}
+Signal Samples - ZHcc, ggZHcc
+  \begin{figure}[h]\centering
+    \subfigure[Tagging Only]{
+    \includegraphics[width=0.3\textwidth]{"../full_results/2018_QCDv9/signal/tags/H_mass_tags_18.png"}
+    }
+    \subfigure[Tagging Prioritized]{
+    \includegraphics[width=0.3\textwidth]{"../full_results/2018_QCDv9/signal/both/H_mass_both_18.png"}
+    }
+    \subfigure[Matching Prioritized]{
+    \includegraphics[width=0.3\textwidth]{"../full_results/2018_QCDv9/signal/algo/H_mass_algo_18.png"}
+    }
+  \end{figure}
+\end{frame}
+\end{document}

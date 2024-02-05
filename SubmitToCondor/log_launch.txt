@@ -1,0 +1,201 @@
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2017E'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2017E_test/*': No such file or directory
+Submitting job(s).......................................
+39 job(s) submitted to cluster 3445362.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_HIPM_DATA_2016F'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_HIPM_DATA_2016F_test/*': No such file or directory
+Submitting job(s)......................
+22 job(s) submitted to cluster 3445363.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2018B'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2018B_test/*': No such file or directory
+Submitting job(s)..........................
+26 job(s) submitted to cluster 3445364.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2017F'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2017F_test/*': No such file or directory
+Submitting job(s)..........................................................
+58 job(s) submitted to cluster 3445365.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2018D'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2018D_test/*': No such file or directory
+Submitting job(s).................................................................................................
+97 job(s) submitted to cluster 3445366.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2018C'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2018C_test/*': No such file or directory
+Submitting job(s)............................
+28 job(s) submitted to cluster 3445367.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2016H'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2016H_test/*': No such file or directory
+Submitting job(s).........................................
+41 job(s) submitted to cluster 3445368.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2018A'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2018A_test/*': No such file or directory
+Submitting job(s)..............................................
+46 job(s) submitted to cluster 3445369.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2017D'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2017D_test/*': No such file or directory
+Submitting job(s)........................
+24 job(s) submitted to cluster 3445370.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2016E'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2016E_test/*': No such file or directory
+Submitting job(s)........................
+24 job(s) submitted to cluster 3445371.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2016D'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2016D_test/*': No such file or directory
+Submitting job(s)....................
+20 job(s) submitted to cluster 3445372.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2016G'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2016G_test/*': No such file or directory
+Submitting job(s)...................................
+35 job(s) submitted to cluster 3445373.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2016F'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2016F_test/*': No such file or directory
+Submitting job(s)...
+3 job(s) submitted to cluster 3445374.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2017B'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2017B_test/*': No such file or directory
+Submitting job(s)........................................
+40 job(s) submitted to cluster 3445375.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2017C'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2017C_test/*': No such file or directory
+Submitting job(s)...........................................................
+59 job(s) submitted to cluster 3445376.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2016C'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2016C_test/*': No such file or directory
+Submitting job(s)..............
+14 job(s) submitted to cluster 3445377.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+error: no such file or directory with path '/store/user/peteryou/Output_VH/Nov2023_updated/SingleMuon_DATA_2016B'
+rm: cannot remove '/uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated//condor_run_NONE/SingleMuon_DATA_2016B_test/*': No such file or directory
+Submitting job(s)...................................
+35 job(s) submitted to cluster 3445378.
+Querying the CMS LPC pool and trying to find an available schedd...
+
+Attempting to submit jobs to lpcschedd4.fnal.gov
+
+=============================
+Run mode:  0
+Submit:    True
+Debug:     False
+haddData:  True
+Systematic:                                                  NONE
+Sample list file (list of input samples):                   
+       /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//Dataset_lists/datasets_SingleMuon.txt
+Sample list folder (location of input file lists):           /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists/
+Number of file per jobs:                                     2
+Source dir:                                                  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis/
+Condor run dir:                                              /uscmst1b_scratch/lpc1/lpcphys/peteryou/Output_VH/Nov2023_updated/
+Output location eos:                                         /store/user/peteryou/Output_VH/Nov2023_updated
+Output location scratch:                                     /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis/condor_results/Nov2023_updated/NONE/
+=========================
+Processing sample:  SingleMuon_DATA_2017E
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2017E.txt
+=========================
+Processing sample:  SingleMuon_HIPM_DATA_2016F
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_HIPM_DATA_2016F.txt
+=========================
+Processing sample:  SingleMuon_DATA_2018B
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2018B.txt
+=========================
+Processing sample:  SingleMuon_DATA_2017F
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2017F.txt
+=========================
+Processing sample:  SingleMuon_DATA_2018D
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2018D.txt
+=========================
+Processing sample:  SingleMuon_DATA_2018C
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2018C.txt
+=========================
+Processing sample:  SingleMuon_DATA_2016H
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2016H.txt
+=========================
+Processing sample:  SingleMuon_DATA_2018A
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2018A.txt
+=========================
+Processing sample:  SingleMuon_DATA_2017D
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2017D.txt
+=========================
+Processing sample:  SingleMuon_DATA_2016E
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2016E.txt
+=========================
+Processing sample:  SingleMuon_DATA_2016D
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2016D.txt
+=========================
+Processing sample:  SingleMuon_DATA_2016G
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2016G.txt
+=========================
+Processing sample:  SingleMuon_DATA_2016F
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2016F.txt
+=========================
+Processing sample:  SingleMuon_DATA_2017B
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2017B.txt
+=========================
+Processing sample:  SingleMuon_DATA_2017C
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2017C.txt
+=========================
+Processing sample:  SingleMuon_DATA_2016C
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2016C.txt
+=========================
+Processing sample:  SingleMuon_DATA_2016B
+>>>>>>> Use this file list:  /uscms_data/d3/peteryou/CMSSW_10_6_4/src/VHanalysis//FileLists//SingleMuon_DATA_2016B.txt
